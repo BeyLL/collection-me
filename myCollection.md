@@ -50,3 +50,4 @@ http://www.css88.com/doc/underscore/docs/underscore.html（underscore.js源码�
 44.http://react-china.org/（react中国一个乱七八糟的react论坛，但是感觉还可以）
 
 44.http://blog.csdn.net/u010089686/article/details/52730571(webpack详解)
+45.http://www.jb51.net/article/68959.htm（jquery中的this的解释）
